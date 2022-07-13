@@ -1,6 +1,11 @@
-
-
-
-
-
-[A[A[A[A[A[A[A[A[B[B[BThe file name is b.txt
+mkdir directory-name
+cat > file name
+ctrl+d
+git init
+git remote add origin (copy link which is avilable in git)
+git add file name(., *.txt, file_name, file_names) -> add files to staging area
+git status -> to know the status in all areas
+git config --global user.name "Manasa balla"
+git config --global user.email manasaballa999@gmail.com
+git commit -m "(massage like processing/done)"
+git push origin master
